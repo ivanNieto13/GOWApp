@@ -7,23 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B0E373B28CCF17A003A5425 /* CGOWeaponsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B0E373A28CCF17A003A5425 /* CGOWeaponsViewController.swift */; };
+		7B0E373D28CCF196003A5425 /* LocusWeaponsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B0E373C28CCF196003A5425 /* LocusWeaponsViewController.swift */; };
+		7B457CB828CC25CA006E84E5 /* CGF Locust Resistance.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7BAFB9CE28CC07D800343BE0 /* CGF Locust Resistance.ttf */; };
 		7BAFB9B828CC05DF00343BE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9B728CC05DF00343BE0 /* AppDelegate.swift */; };
 		7BAFB9BA28CC05DF00343BE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9B928CC05DF00343BE0 /* SceneDelegate.swift */; };
-		7BAFB9BC28CC05DF00343BE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9BB28CC05DF00343BE0 /* ViewController.swift */; };
 		7BAFB9BF28CC05DF00343BE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BAFB9BD28CC05DF00343BE0 /* Main.storyboard */; };
-		7BAFB9C128CC05E000343BE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BAFB9C028CC05E000343BE0 /* Assets.xcassets */; };
 		7BAFB9C428CC05E000343BE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BAFB9C228CC05E000343BE0 /* LaunchScreen.storyboard */; };
+		7BAFB9CC28CC065700343BE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BAFB9CB28CC065700343BE0 /* Assets.xcassets */; };
+		7BAFB9D328CC0C8A00343BE0 /* GOWViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9D228CC0C8A00343BE0 /* GOWViewController.swift */; };
+		7BAFB9D528CC17D000343BE0 /* MenuOptionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9D428CC17D000343BE0 /* MenuOptionTableViewCell.swift */; };
+		7BAFB9D728CC1A8200343BE0 /* MenuOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAFB9D628CC1A8200343BE0 /* MenuOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B0E373A28CCF17A003A5425 /* CGOWeaponsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGOWeaponsViewController.swift; sourceTree = "<group>"; };
+		7B0E373C28CCF196003A5425 /* LocusWeaponsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocusWeaponsViewController.swift; sourceTree = "<group>"; };
 		7BAFB9B428CC05DF00343BE0 /* GOWApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GOWApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BAFB9B728CC05DF00343BE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BAFB9B928CC05DF00343BE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7BAFB9BB28CC05DF00343BE0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7BAFB9BE28CC05DF00343BE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7BAFB9C028CC05E000343BE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BAFB9C328CC05E000343BE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BAFB9C528CC05E000343BE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BAFB9CB28CC065700343BE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7BAFB9CE28CC07D800343BE0 /* CGF Locust Resistance.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CGF Locust Resistance.ttf"; sourceTree = "<group>"; };
+		7BAFB9D228CC0C8A00343BE0 /* GOWViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GOWViewController.swift; sourceTree = "<group>"; };
+		7BAFB9D428CC17D000343BE0 /* MenuOptionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuOptionTableViewCell.swift; sourceTree = "<group>"; };
+		7BAFB9D628CC1A8200343BE0 /* MenuOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +66,52 @@
 		7BAFB9B628CC05DF00343BE0 /* GOWApp */ = {
 			isa = PBXGroup;
 			children = (
+				7BAFB9D128CC09E600343BE0 /* Controller */,
+				7BAFB9D028CC09DC00343BE0 /* View */,
+				7BAFB9CF28CC09D600343BE0 /* Model */,
+				7BAFB9CD28CC07CF00343BE0 /* Fonts */,
 				7BAFB9B728CC05DF00343BE0 /* AppDelegate.swift */,
 				7BAFB9B928CC05DF00343BE0 /* SceneDelegate.swift */,
-				7BAFB9BB28CC05DF00343BE0 /* ViewController.swift */,
 				7BAFB9BD28CC05DF00343BE0 /* Main.storyboard */,
-				7BAFB9C028CC05E000343BE0 /* Assets.xcassets */,
 				7BAFB9C228CC05E000343BE0 /* LaunchScreen.storyboard */,
 				7BAFB9C528CC05E000343BE0 /* Info.plist */,
+				7BAFB9CB28CC065700343BE0 /* Assets.xcassets */,
 			);
 			path = GOWApp;
+			sourceTree = "<group>";
+		};
+		7BAFB9CD28CC07CF00343BE0 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				7BAFB9CE28CC07D800343BE0 /* CGF Locust Resistance.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		7BAFB9CF28CC09D600343BE0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7BAFB9D628CC1A8200343BE0 /* MenuOption.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		7BAFB9D028CC09DC00343BE0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7BAFB9D428CC17D000343BE0 /* MenuOptionTableViewCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7BAFB9D128CC09E600343BE0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7BAFB9D228CC0C8A00343BE0 /* GOWViewController.swift */,
+				7B0E373A28CCF17A003A5425 /* CGOWeaponsViewController.swift */,
+				7B0E373C28CCF196003A5425 /* LocusWeaponsViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +172,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B457CB828CC25CA006E84E5 /* CGF Locust Resistance.ttf in Resources */,
 				7BAFB9C428CC05E000343BE0 /* LaunchScreen.storyboard in Resources */,
-				7BAFB9C128CC05E000343BE0 /* Assets.xcassets in Resources */,
+				7BAFB9CC28CC065700343BE0 /* Assets.xcassets in Resources */,
 				7BAFB9BF28CC05DF00343BE0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +186,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7BAFB9BC28CC05DF00343BE0 /* ViewController.swift in Sources */,
+				7BAFB9D328CC0C8A00343BE0 /* GOWViewController.swift in Sources */,
+				7BAFB9D528CC17D000343BE0 /* MenuOptionTableViewCell.swift in Sources */,
+				7B0E373B28CCF17A003A5425 /* CGOWeaponsViewController.swift in Sources */,
 				7BAFB9B828CC05DF00343BE0 /* AppDelegate.swift in Sources */,
+				7BAFB9D728CC1A8200343BE0 /* MenuOption.swift in Sources */,
+				7B0E373D28CCF196003A5425 /* LocusWeaponsViewController.swift in Sources */,
 				7BAFB9BA28CC05DF00343BE0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,7 +356,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -332,7 +384,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
